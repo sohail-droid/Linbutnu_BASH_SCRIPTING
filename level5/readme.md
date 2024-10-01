@@ -1,0 +1,1 @@
+Creates a directory names 'Battlefield' -> Inside Battlefield, create files named knight.txt, sorcerer.txt, and rogue.txt. -> Check if knight.txt exists; if it does, move it to a new directory called Archive. ->List the contents of both Battlefield and Archive.
