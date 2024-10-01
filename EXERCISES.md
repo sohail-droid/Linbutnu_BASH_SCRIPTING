@@ -1,4 +1,4 @@
-CISE 1 = Create a directory named Arena and inside it, create three files: warrior.txt, mage.txt, and archer.txt. Once the files are created, list the contents of the Arena directory.
+EXERCISE 1 = Create a directory named Arena and inside it, create three files: warrior.txt, mage.txt, and archer.txt. Once the files are created, list the contents of the Arena directory.
 
 EXERCISE 2 = Create a script that outputs the numbers 1 to 10, one number per line.
 
