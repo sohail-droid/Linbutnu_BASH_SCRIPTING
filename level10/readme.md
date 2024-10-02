@@ -1,0 +1,1 @@
+Creates a directory called Arena_Boss. -> Creates 5 text files inside the directory, named file1.txt to file5.txt. -> Generates a random number of lines (between 10 and 20) in each file. -> Sorts these files by their size and displays the list. -> Checks if any of the files contain the word 'Victory', and if found, moves the file to a directory called Victory_Archive.
