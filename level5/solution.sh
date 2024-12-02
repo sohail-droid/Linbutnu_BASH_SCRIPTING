@@ -4,7 +4,7 @@ mkdir /home/vagrant/scripts/Archive
 touch /home/vagrant/scripts/Battlefield/knight.txt 
 touch /home/vagrant/scripts/Battlefield/sorcerer.txt
 touch /home/vagrant/scripts/Battlefield/rogue.txt
-if [ -f /home/vagrant/scripts/Battlefield/knight.txt ];
+if [ -e /home/vagrant/scripts/Battlefield/knight.txt ];
 then 
   echo "File knight.txt exists"
   mv /home/vagrant/scripts/Battlefield/knight.txt /home/vagrant/scripts/Archive
